@@ -1,5 +1,7 @@
 # Frontend Boilerplate with React, MobX & TypeScript
 
+Forked from [rokoroku/react-mobx-typescript-boilerplate](https://github.com/rokoroku/react-mobx-typescript-boilerplate) and integrated with new dependency versions.
+
 A bare minimum react-mobx-webpack-typescript boilerplate with TodoMVC example.
 
 Note that this project does not include **Server-Side Rendering**,  **Testing Frameworks** and other stuffs that makes the package unnecessarily complicated.
@@ -10,9 +12,9 @@ See also: [react-redux-typescript-boilerplate](https://github.com/rokoroku/react
 
 ## Contains
 
-- [x] [Typescript](https://www.typescriptlang.org/) 3.2
-- [x] [React](https://facebook.github.io/react/) 16.7
-- [x] [React Router](https://github.com/ReactTraining/react-router) 4
+- [x] [Typescript](https://www.typescriptlang.org/) 3.7.4
+- [x] [React](https://facebook.github.io/react/) 16.12
+- [x] [React Router](https://github.com/ReactTraining/react-router) 5
 - [x] [Mobx](https://github.com/mobxjs/mobx) 5
 - [x] [Mobx React](https://github.com/mobxjs/mobx-react)
 - [x] [Mobx React Router](https://github.com/alisd23/mobx-react-router/)
