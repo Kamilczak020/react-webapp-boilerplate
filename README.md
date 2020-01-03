@@ -38,25 +38,25 @@ See also: [react-redux-typescript-boilerplate](https://github.com/rokoroku/react
 ## Setup
 
 ```
-$ npm install
+$ yarn install
 ```
 
 ## Running
 
 ```
-$ npm start
+$ yarn start
 ```
 
 ## Build
 
 ```
-$ npm run build
+$ yarn run build
 ```
 
 ## Code Format
 
 ```
-$ npm run prettier
+$ yarn run prettier
 ```
 
 # License
